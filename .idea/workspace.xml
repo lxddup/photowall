@@ -2,64 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11f6427b-2030-46f9-a4f1-b45bac1f91db" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/photowall/font/icons/turn-arrow.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/photowall/font/icons/turn-arrow.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/photowall/font/icons/turn-arrow.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/photowall/img/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/photowall/img/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/photowall/img/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/photowall/img/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/photowall/img/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/photowall/img/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/photowall/img/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/photowall/img/16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/photowall/img/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/photowall/img/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/photowall/img/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/photowall/img/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/photowall/img/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/photowall/img/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/photowall/img/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/photowall/img/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photowall/font/icons/turn-arrow.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photowall/font/icons/turn-arrow.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photowall/font/icons/turn-arrow.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photowall/img/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photowall/img/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photowall/img/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photowall/img/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photowall/img/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photowall/img/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photowall/img/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photowall/img/16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photowall/img/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photowall/img/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photowall/img/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photowall/img/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photowall/img/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photowall/img/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photowall/img/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photowall/img/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/photowall.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/photowall/component/Photowall.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/photowall/css/photowall.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/photowall/data/imageDatas.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/photowall/font/icons/turn-arrow.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/photowall/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/photowall/js/browser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/photowall/js/react-dom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/photowall/js/react.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photowall/component/Photowall.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photowall/css/photowall.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photowall/data/imageDatas.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photowall/font/icons/turn-arrow.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photowall/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photowall/js/browser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photowall/js/react-dom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photowall/js/react.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -77,11 +20,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="react.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="react.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/photowall/js/react.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="266">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/photowall/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -154,6 +107,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="photowall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="photowall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="photowall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="component" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -165,6 +136,7 @@
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/nefu2017-master" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -236,18 +208,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499221695745</updated>
-      <workItem from="1499221700358" duration="80000" />
+      <workItem from="1499221700358" duration="1098000" />
     </task>
+    <task id="LOCAL-00001" summary="照片墙例子">
+      <created>1499222003575</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1499222003575</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80000" />
+    <option name="totallyTimeSpent" value="1098000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -271,6 +251,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="照片墙例子" />
+    <option name="LAST_COMMIT_MESSAGE" value="照片墙例子" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -278,8 +262,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/photowall/js/react.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="266">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/photowall/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
           <folding />
         </state>
       </provider>
